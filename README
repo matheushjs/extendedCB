@@ -1,0 +1,4 @@
+Extender Color Brewer
+===
+
+An extension of the package RColorBrewer to convert each of their palettes to continuous colorspaces, as they are all discrete in RColorBrewer.
